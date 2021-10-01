@@ -4,6 +4,7 @@
 - 💞️ I’m looking for help with Software Developer
 - 📫 How to reach me ...
 
+ ........................First Solve the problem then write the code.--Nazir ............................
 
 <!---
 Nazir-Coder/Nazir-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
